@@ -6,7 +6,14 @@
 
 
 - 크롬에서 webkit의 동작 과정을 설명해주세요
+- 렌더 트리는 어떻게 생성되나요?
 - CSR, SSR, PSSR 을 비교해서 설명해주세요. (https://medium.com/@saksham2410/csr-ssr-or-pssr-4f7759cbf3fb)
+
+- DOM 이 필요한 이유가 무엇일까요?
+- DOM은 HTML과 항상 같다고 볼 수 있을까요?
+- DOM이 브라우저에서 보여진다고 할 수 있을까요?
+- 간단한 HTML 문서를 쓰고, 그걸 DOM으로 표현해주세요.
+(참고: https://wit.nts-corp.com/2019/02/14/5522 )
 
 
 간략한 정보
